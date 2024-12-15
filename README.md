@@ -35,3 +35,12 @@ We welcome feedback and contributions to the project! Feel free to fork this rep
 ## License
 
 This project is open-sourced under the MIT License. Enjoy building and contributing!
+
+
+## Contact
+
+For job inquiries or further information, feel free to reach out:
+
+- **Twitter**: [@Xerxescoder](https://x.com/Xerxescoder)
+- **Email**: [xerxescode@gmail.com](mailto:xerxescode@gmail.com)
+- **Telegram**: [@xerxescoder](https://t.me/xerxescoder)
